@@ -1,5 +1,4 @@
 Notes:
 
-    - Fixed saving .avi format
-	- Fixed selecting points outside of image
-
+    - Fixed order of slideshow, saved .avi, and exported manual data
+	- Added spinbox to threshold
