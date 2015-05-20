@@ -1,4 +1,3 @@
 Notes:
 
-    - Fixed order of slideshow, saved .avi, and exported manual data
-	- Added spinbox to threshold
+    - Fixed .avi file so the last two images are included
