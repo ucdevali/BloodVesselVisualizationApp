@@ -1,3 +1,1 @@
-Notes:
-
-    - Fixed .avi file so the last two images are included
+- [FIXED] After closing images, old images would still appear in the slideshow and cause the slides to be out of order
