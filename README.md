@@ -1,2 +1,2 @@
-- [FIXED] After closing images, old images would still appear in the slideshow and cause the slides to be out of order
-- [FIXED] Slideshow's slidebar maximum value was off by one
+ - MainWindow and SlideShow viewport* sizes can be adjusted 
+ *(Note: The viewport is the graphicsview widget where an opened image is displayed)
