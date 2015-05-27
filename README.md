@@ -1,1 +1,2 @@
- - Slideshow memory fixed
+ - Change to mainwindow .ui 
+ - [FIXED] Wouldn't update the graphicsview if clicked outside
