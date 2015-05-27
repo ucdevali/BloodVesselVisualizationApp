@@ -1,2 +1,1 @@
- - Slide order fixed 
- - mainwindow and slideshow graphicsview widget size can be adjusted 
+ - Slideshow memory fixed
