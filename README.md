@@ -1,2 +1,2 @@
- - MainWindow and SlideShow viewport* sizes can be adjusted 
- *(Note: The viewport is the graphicsview widget where an opened image is displayed)
+ - Slide order fixed 
+ - mainwindow and slideshow graphicsview widget size can be adjusted 
