@@ -1,2 +1,1 @@
- - Change to mainwindow .ui 
- - [FIXED] Wouldn't update the graphicsview if clicked outside
+ - [FIXED] MainWindow was freezing after closing 'Display Original Image' window or 'Branch Graph' window
